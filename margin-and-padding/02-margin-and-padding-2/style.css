@@ -18,6 +18,7 @@ body {
 .title {
   background: #e3f4ff;
   margin: 8px;
+  font-size: 16px;
 }
 
 .content {
