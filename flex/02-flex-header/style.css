@@ -8,6 +8,8 @@
   font-family: monospace;
   background: papayawhip;
   margin: 0px;
+  display: flex;
+
 }
 
 .logo {
@@ -18,9 +20,12 @@
   padding: 4px 32px;
 }
 
+
+
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
 }
 
 a {
