@@ -8,8 +8,9 @@
   font-family: monospace;
   background: papayawhip;
   margin: 0px;
+  padding: 8px;
   display: flex;
-
+  align-items: center;
 }
 
 .logo {
