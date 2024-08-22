@@ -1,6 +1,13 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+
 .header  {
   font-family: monospace;
   background: papayawhip;
+  margin: 0px;
 }
 
 .logo {
