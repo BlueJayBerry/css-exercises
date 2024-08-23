@@ -28,6 +28,13 @@ body {
   padding: 16px;
 }
 
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer{
   background-color: #eeeeee;
 }
