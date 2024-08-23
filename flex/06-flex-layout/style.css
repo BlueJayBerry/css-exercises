@@ -22,6 +22,10 @@ body {
   justify-content: space-between;
 }
 
+.footer{
+  background-color: #eeeeee;
+}
+
 ul{
   list-style-type: none;
   padding: 0px;
