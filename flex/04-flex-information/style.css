@@ -33,7 +33,8 @@ img {
 .item-4{
   display: flex;
   justify-content: center;
-  
+  flex-wrap: wrap;
+  flex-basis: 200px;
 }
 
 /* do not edit this footer */
