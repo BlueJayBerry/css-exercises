@@ -7,6 +7,21 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header,
+.left-links,
+.right-links,
+.footer{
+  display: flex;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
 img {
   width: 600px;
 }
