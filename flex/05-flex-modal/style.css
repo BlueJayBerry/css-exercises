@@ -23,7 +23,7 @@ body {
   display: flex;
   padding: 16px;
   gap: 16px;
-}
+} 
 
 .icon {
   color: royalblue;
@@ -39,6 +39,10 @@ body {
   flex-shrink: 0;
 }
 
+.first-line{
+  display: flex;
+  justify-content: space-between;
+}
 .close-button {
   background: #eee;
   border-radius: 50%;
