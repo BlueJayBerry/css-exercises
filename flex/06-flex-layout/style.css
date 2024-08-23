@@ -25,6 +25,7 @@ body {
 .header,
 .footer{
   justify-content: space-between;
+  padding: 16px;
 }
 
 .footer{
