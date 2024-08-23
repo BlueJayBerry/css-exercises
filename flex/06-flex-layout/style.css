@@ -14,6 +14,11 @@ body {
   display: flex;
 }
 
+.header,
+.footer{
+  justify-content: space-between;
+}
+
 ul{
   list-style-type: none;
 }
