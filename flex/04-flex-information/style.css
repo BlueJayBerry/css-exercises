@@ -20,6 +20,11 @@ img {
   gap: 32px;
 }
 
+.content{
+  display: flex;
+  gap: 52px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
