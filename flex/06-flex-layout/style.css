@@ -17,6 +17,11 @@ body {
   display: flex;
 }
 
+.left-links,
+.right-links{
+  gap: 16px;
+}
+
 .header,
 .footer{
   justify-content: space-between;
@@ -34,6 +39,7 @@ ul{
 
 a{
   text-decoration: none;
+  color:gray;
 }
 
 img {
